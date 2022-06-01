@@ -1,0 +1,7 @@
+PartyName                 Candidates          VotesFor    VotesAgainst
+TimeForTeaParty                    4                 2               5
+MonsterRavingLooneyParty           5                 3               3
+RhinocerosParty                    4                 7               0
+GreenishParty                      2                 4               2
+DanceParty                         3                16              15
+MoreOfAGatheringParty              4                 1               9
